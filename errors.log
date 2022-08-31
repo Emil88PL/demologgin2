@@ -1,0 +1,5 @@
+20220830 15:05:29 DEBUG [main] logging2.App App.java19 - We've just greeted the user!
+20220830 15:05:29 INFO  [main] logging2.App App.java20 - We've just greeted the user!
+20220830 15:05:29 WARN  [main] logging2.App App.java21 - We've just greeted the user!
+20220830 15:05:29 ERROR [main] logging2.App App.java22 - We've just greeted the user!
+20220830 15:05:29 FATAL [main] logging2.App App.java23 - We've just greeted the user! with Fatal error
